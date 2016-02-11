@@ -21,6 +21,10 @@
   margin-bottom: 0px;
 }
 
+#name {
+  margin-bottom: 0px;
+}
+
 /* code-looking panel titles */
 .panel-heading {
   font-family: monospace;
